@@ -2,6 +2,8 @@ title: Just the Docs
 description: A Jekyll theme for documentation
 remote_theme: just-the-docs/just-the-docs
 url: https://dchaudh.github.io
+color_scheme: "dark"
+search_enabled: true
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/dchaudh/dchaudh.github.io
