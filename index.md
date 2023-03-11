@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: About
 nav_order: 1
 description: "Just the Thoughts is home for my thoughts"
 permalink: /
@@ -9,6 +9,7 @@ permalink: /
 # Under construction
 {: .fs-9 }
 
-This is home for my valuable thoughts. Come back to this site later to review my first article. 
+Bio to be added
+
 
 ---
