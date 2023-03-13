@@ -9,7 +9,4 @@ permalink: /
 # Under construction
 {: .fs-9 }
 
-Bio to be added
-
-
 ---
