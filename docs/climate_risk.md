@@ -38,10 +38,31 @@ OSFI reinforces its climate risk management expectations through climate-related
 
 To help achieve high-quality disclosures that enable users, who may be investors, analysts, and the public at large, to understand the impact of climate change on FIs, FIs should follow these six principles:
 
-1. The FRFI should disclose relevant information.
-2. The FRFI should disclose specific and comprehensive information.
-3. The FRFI should disclose clear, balanced, and understandable information.
-4. The FRFI should disclose reliable and verifiable information.
-5. The FRFI should disclose information appropriate for its size, nature, and complexity.
-6. The FRFI should disclose information consistently over time. 
+1. Disclose relevant information.
+2. Disclose specific and comprehensive information.
+3. Disclose clear, balanced, and understandable information.
+4. Disclose reliable and verifiable information.
+5. Disclose information appropriate for its size, nature, and complexity.
+6. Disclose information consistently over time. 
+
+The disclosures should be published, at a minimum, annually. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
+
+## Who does this guideline apply to?
+
+The guideline applies to all federally regulated financial institutions, i.e., banks, trust and loan companies, life insurance companies, property and casualty (P&C) companies, except foreign bank branches.
+
+## When will this guideline become effective?
+
+The expectations outlined in the guideline will become effective in a phased approach. The minimum mandatory climate-related financial disclosures will become effective starting from the fiscal period ending on or after October 1, 2024, for D-SIBs and IAIGs. FIs are expected to publish financial disclosures no later than 180 days after the fiscal year-end.
+
+## How can FIs get started with this guideline?
+
+Overall, financial institutions need to integrate climate risk management into their core business practices to effectively manage climate risks and contribute to a sustainable future. FIs can identify, assess, and manage climate risks by using a combination of quantitative and qualitative methods. Here are some key approaches:
+
+1. Data analytics: FIs need to gather and analyze historical climate data, economic data, and exposure data to identify potential risk hotspots. If FIs do not have such data, they can use third-party vendor products.
+2. Risk modeling: FIs need to create new risk models (e.g., estimate changes in loan-to-value ratio, calculate climate-risk adjusted probability of defaults) or at a minimum fine-tune their existing risk models (since the time horizon for climate risk is much larger than the traditional time horizon of one to three years) to assess the potential financial impact of climate change on their business. These models need to take into account a range of factors, including historical climate data, future climate projections, and exposure data, to estimate potential losses.
+3. Scenario analysis and stress testing: Financial institutions need to perform scenario analysis to assess the potential impact of different climate scenarios on their business. They should also include stress scenarios to assess the resilience of their business. Other than the standardized scenarios that would be provided by OSFI, FIs can use climate scenarios provided by organizations such as Network for Greening the Financial System (NGFS).
+4. Expert judgment: Financial institutions can also use qualitative methods, such as the opinions of industry experts, to supplement their quantitative analysis and assess the potential impact of climate change on their business.
+Using these approaches, once FIs have established a baseline for their current performance in climate risk management, they should set and monitor measurable metrics and targets (e.g., carbon footprint, portfolio alignment with climate goals such as the Paris Agreement or national targets for emissions reduction, etc.) to drive and track progress in managing climate risks.
+
   
