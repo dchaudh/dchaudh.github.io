@@ -19,23 +19,24 @@ Climate risk is a cross-cutting risk; that is, not a risk in its own right but o
 
 ## What does the guideline say?
 
-The guideline sets out OSFI's expectations for climate risk management. This guideline is to be used in conjunction with other OSFI guidance, including but not limited to the Corporate Governance Guideline, Guideline E-18: Stress Testing, Guideline E-19: Own Risk and Solvency Assessment (ORSA), and Guideline E-19: Internal Capital Adequacy Process (ICAAP), which address the elements of climate risk management. There are two main categories of OSFI's expectations:
+The guideline sets out OSFI's expectations for climate risk management. This guideline is to be used in conjunction with other OSFI guidance, including but not limited to the Corporate Governance Guideline, Guideline E-18: Stress Testing, Guideline E-19: Own Risk and Solvency Assessment (ORSA), and Guideline E-19: Internal Capital Adequacy Process (ICAAP), which address the elements of climate risk management. There are two main categories of OSFI's expectations: Climate Risk Management and Climate-Related Financial Disclosures.
 
-### Governance
+### Climate Risk Management
+
+#### Governance
 FIs are expected to establish the appropriate governance structure, involving the board of directors and senior management, to manage climate risk. Additionally, FIs are expected to understand and incorporate the impact of climate risk on their business model and strategic plans.
-### Risk Management
+#### Risk Management
 FIs are expected to identify, assess, and manage climate risk in tandem with their risk appetite framework. As climate risk is a cross-cutting risk, FIs are expected to integrate climate risk into their Enterprise Risk Management (ERM) framework. Furthermore, FIs should implement appropriate tools and models to measure the current and future impact of climate risk over various time horizons. The guideline also recognizes that FIs might have limited data available pertaining to climate risk. In instances where such data gaps exist, FIs should use alternative data sources/proxies. Whenever FIs use external sources for help, be it for models or data, they should adequately understand their behind-the-scenes mechanics. For FIs to assess the effectiveness and progress of their climate risk management, they should set and monitor metrics and targets. FIs should also have reporting systems to support strategic planning and risk management.
-### Climate Scenario Analysis and Stress Testing
+#### Climate Scenario Analysis and Stress Testing
 In addition to governance and risk management expectations, FIs are expected to use climate scenario analysis and stress testing to assess the impact of climate risk on their risk profile, business strategy, and business model. FIs should not take climate scenario analysis lightly as OSFI will require FIs to complete standardized climate scenario exercises and report results back to them on a periodic basis.
 
-### Capital and Liquidity Adequacy
+#### Capital and Liquidity Adequacy
 Last but not least, FIs should incorporate climate risk into their ICAAP or ORSA process to maintain sufficient capital and liquidity buffers.
 
 ### Climate-Related Financial Disclosures
 OSFI reinforces its climate risk management expectations through climate-related financial disclosure expectations, which are highly aligned with the recommendations of the Task force on Climate-related Financial Disclosures (TCFD). As with TCFD, OSFI's disclosure expectations are structured around four thematic areas that represent core elements of how companies operate: governance, strategy, risk management, and metrics and targets. These disclosures help OSFI meet its mandate of protecting depositors, creditors, and policyholders and contributing to public confidence in the Canadian financial system.
 
-### Principles for Effective Disclosures
-To help achieve high-quality disclosures that enable users, who may be investors, analysts, and the public at large, to understand the impact of climate change on FIs, FIs should follow six principles:
+To help achieve high-quality disclosures that enable users, who may be investors, analysts, and the public at large, to understand the impact of climate change on FIs, FIs should follow these six principles:
 
 1. The FRFI should disclose relevant information.
 2. The FRFI should disclose specific and comprehensive information.
@@ -43,5 +44,4 @@ To help achieve high-quality disclosures that enable users, who may be investors
 4. The FRFI should disclose reliable and verifiable information.
 5. The FRFI should disclose information appropriate for its size, nature, and complexity.
 6. The FRFI should disclose information consistently over time. 
- 
-
+  
