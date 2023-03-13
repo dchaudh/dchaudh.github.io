@@ -20,8 +20,9 @@ Climate risk is a cross-cutting risk; that is, not a risk in its own right but o
 
 The guideline sets out OSFI's expectations for climate risk management. This guideline is to be used in conjunction with other OSFI guidance, including but not limited to the Corporate Governance Guideline, Guideline E-18: Stress Testing, Guideline E-19: Own Risk and Solvency Assessment (ORSA), and Guideline E-19: Internal Capital Adequacy Process (ICAAP), which address the elements of climate risk management. There are two main categories of OSFI's expectations: Climate Risk Management and Climate-Related Financial Disclosures.
 
-<details><summary>Climate Risk Management</summary>
-<p>
+<details>
+ <summary>Climate Risk Management</summary>
+
 ### Governance
 FIs are expected to establish the appropriate governance structure, involving the board of directors and senior management, to manage climate risk. Additionally, FIs are expected to understand and incorporate the impact of climate risk on their business model and strategic plans.
 ### Risk Management
@@ -31,11 +32,11 @@ In addition to governance and risk management expectations, FIs are expected to 
 
 ### Capital and Liquidity Adequacy
 Last but not least, FIs should incorporate climate risk into their ICAAP or ORSA process to maintain sufficient capital and liquidity buffers.
-</p>
 </details>
 
-<details><summary>Climate-Related Financial Disclosures</summary>
-<p>
+<details>
+ <summary>Climate-Related Financial Disclosures</summary>
+
 ---
 OSFI reinforces its climate risk management expectations through climate-related financial disclosure expectations, which are highly aligned with the recommendations of the Task force on Climate-related Financial Disclosures (TCFD). As with TCFD, OSFI's disclosure expectations are structured around four thematic areas that represent core elements of how companies operate: governance, strategy, risk management, and metrics and targets. These disclosures help OSFI meet its mandate of protecting depositors, creditors, and policyholders and contributing to public confidence in the Canadian financial system.
 ---
@@ -49,7 +50,6 @@ To help achieve high-quality disclosures that enable users, who may be investors
 6. Disclose information consistently over time. 
 ---
 The disclosures should be published, at a minimum, annually. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
-</p>
 </details>
 
 ## Who does this guideline apply to?
@@ -74,28 +74,29 @@ Overall, financial institutions need to integrate climate risk management into t
 Using these approaches, once FIs have established a baseline for their current performance in climate risk management, they should set and monitor measurable metrics and targets (e.g., carbon footprint, portfolio alignment with climate goals such as the Paris Agreement or national targets for emissions reduction, etc.) to drive and track progress in managing climate risks.
 
 ## Appendix
-<details><summary>Details on Climate-Related Financial Disclosures</summary>
-<p>
+<details>
+ <summary>Details on Climate-Related Financial Disclosures</summary>
+
 ![disclosure](docs/assets/images/climate_disclosure.png)
-</p>
+
+![disclosure2](/dchaudh.github.io/docs/assets/images/climate_disclosure.png)
 </details>
 
-<details><summary>List of D-SIBs</summary>
-<p>
+<details>
+ <summary>List of D-SIBs</summary>
 - Bank of Montreal
 - Bank of Nova Scotia
 - Canadian Imperial Bank of Commerce
 - National Bank of Canada
 - Royal Bank of Canada
 - Toronto-Dominion Bank
-</p>
 </details>
 
-<details><summary>List of IAIGs</summary>
-<p>
+<details>
+ <summary>List of IAIGs</summary>
+
  - Sun Life Assurance Company of Canada
  - Manufacturers Life Insurance Company
  - Canada Life Assurance Company
  - Intact Financial Corporation
-</p>
 </details>
