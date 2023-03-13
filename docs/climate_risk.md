@@ -31,6 +31,7 @@ In addition to governance and risk management expectations, FIs are expected to 
 
 ### Capital and Liquidity Adequacy
 Last but not least, FIs should incorporate climate risk into their ICAAP or ORSA process to maintain sufficient capital and liquidity buffers.
+
 </details>
 
 <details><summary>Climate-Related Financial Disclosures</summary>
@@ -45,8 +46,9 @@ To help achieve high-quality disclosures that enable users, who may be investors
 4. Disclose reliable and verifiable information.
 5. Disclose information appropriate for its size, nature, and complexity.
 6. Disclose information consistently over time. 
----
+
 The disclosures should be published, at a minimum, annually. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
+ 
 </details>
 
 ## Who does this guideline apply to?
@@ -72,10 +74,11 @@ Using these approaches, once FIs have established a baseline for their current p
 
 ## Appendix
 
-### Details on Climate-Related Financial Disclosures
+<details><summary>Details on Climate-Related Financial Disclosures</summary>
 
 ![disclosure](/docs/assets/images/climate_disclosure.png)
 
+</details>
 
 <details><summary>List of D-SIBs</summary>
  
@@ -85,6 +88,7 @@ Using these approaches, once FIs have established a baseline for their current p
 - National Bank of Canada
 - Royal Bank of Canada
 - Toronto-Dominion Bank
+ 
 </details>
 
 <details><summary>List of IAIGs</summary>
@@ -93,4 +97,5 @@ Using these approaches, once FIs have established a baseline for their current p
  - Manufacturers Life Insurance Company
  - Canada Life Assurance Company
  - Intact Financial Corporation
+
 </details>
