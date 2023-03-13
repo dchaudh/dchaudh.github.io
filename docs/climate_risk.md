@@ -79,6 +79,10 @@ Using these approaches, once FIs have established a baseline for their current p
 
 ![disclosure](docs/assets/images/climate_disclosure.png)
 
+ <img src="docs/assets/images/climate_disclosure.png" class="img-responsive" alt=""> </div>
+ 
+ <img src="/dchaudh.github.io/docs/assets/images/climate_disclosure.png" class="img-responsive" alt=""> </div>
+ 
 ![disclosure2](/dchaudh.github.io/docs/assets/images/climate_disclosure.png)
 </details>
 
