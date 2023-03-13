@@ -3,7 +3,6 @@ layout: default
 title: Climate Risk
 nav_order: 2
 ---
-
 # OSFI's B-15 Guideline Explained
 
 The Office of the Superintendent of Financial Institutions (OSFI) published its climate risk management guideline earlier this
@@ -23,14 +22,14 @@ The guideline sets out OSFI's expectations for climate risk management. This gui
 
 <details><summary>Climate Risk Management</summary>
 <p>
-#### Governance
+### Governance
 FIs are expected to establish the appropriate governance structure, involving the board of directors and senior management, to manage climate risk. Additionally, FIs are expected to understand and incorporate the impact of climate risk on their business model and strategic plans.
-#### Risk Management
+### Risk Management
 FIs are expected to identify, assess, and manage climate risk in tandem with their risk appetite framework. As climate risk is a cross-cutting risk, FIs are expected to integrate climate risk into their Enterprise Risk Management (ERM) framework. Furthermore, FIs should implement appropriate tools and models to measure the current and future impact of climate risk over various time horizons. The guideline also recognizes that FIs might have limited data available pertaining to climate risk. In instances where such data gaps exist, FIs should use alternative data sources/proxies. Whenever FIs use external sources for help, be it for models or data, they should adequately understand their behind-the-scenes mechanics. For FIs to assess the effectiveness and progress of their climate risk management, they should set and monitor metrics and targets. FIs should also have reporting systems to support strategic planning and risk management.
-#### Climate Scenario Analysis and Stress Testing
+### Climate Scenario Analysis and Stress Testing
 In addition to governance and risk management expectations, FIs are expected to use climate scenario analysis and stress testing to assess the impact of climate risk on their risk profile, business strategy, and business model. FIs should not take climate scenario analysis lightly as OSFI will require FIs to complete standardized climate scenario exercises and report results back to them on a periodic basis.
 
-#### Capital and Liquidity Adequacy
+### Capital and Liquidity Adequacy
 Last but not least, FIs should incorporate climate risk into their ICAAP or ORSA process to maintain sufficient capital and liquidity buffers.
 </p>
 </details>
@@ -59,7 +58,9 @@ The guideline applies to all federally regulated financial institutions, i.e., b
 
 ## When will this guideline become effective?
 
-The expectations outlined in the guideline will become effective in a phased approach. The minimum mandatory climate-related financial disclosures will become effective from the fiscal period ending on or after October 1, 2024, for D-SIBs and IAIGs. FIs are expected to publish financial disclosures no later than 180 days after the fiscal year-end. For other in-scope FIs, the guideline will become effective from the fiscal year ending on or after October 1, 2025.
+The expectations outlined in the guideline will become effective in a phased approach. The minimum mandatory climate-related financial disclosures will become effective from the fiscal period ending on or after October 1, 2024, for Domestic Systemically Important Banks (D-SIBs) and Internationally Active Insurance Groups (IAIGs). For other in-scope FIs, the guideline will become effective from the fiscal year ending on or after October 1, 2025.
+
+FIs are expected to publish financial disclosures no later than 180 days after the fiscal year-end.
 
 ## How can FIs get started with this guideline?
 
@@ -72,4 +73,29 @@ Overall, financial institutions need to integrate climate risk management into t
 
 Using these approaches, once FIs have established a baseline for their current performance in climate risk management, they should set and monitor measurable metrics and targets (e.g., carbon footprint, portfolio alignment with climate goals such as the Paris Agreement or national targets for emissions reduction, etc.) to drive and track progress in managing climate risks.
 
-  
+## Appendix
+<details><summary>Details on Climate-Related Financial Disclosures</summary>
+<p>
+![disclosure](images/climate_disclosure.png)
+<p>
+<details>
+
+<details><summary>List of D-SIBs</summary>
+<p>
+- Bank of Montreal
+- Bank of Nova Scotia
+- Canadian Imperial Bank of Commerce
+- National Bank of Canada
+- Royal Bank of Canada
+- Toronto-Dominion Bank
+<p>
+<details>
+
+<details><summary>List of IAIGs</summary>
+<p>
+ - Sun Life Assurance Company of Canada
+ - Manufacturers Life Insurance Company
+ - Canada Life Assurance Company
+ - Intact Financial Corporation
+<p>
+<details>
