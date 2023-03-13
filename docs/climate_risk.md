@@ -37,9 +37,8 @@ Last but not least, FIs should incorporate climate risk into their ICAAP or ORSA
 <details>
  <summary>Climate-Related Financial Disclosures</summary>
 
----
 OSFI reinforces its climate risk management expectations through climate-related financial disclosure expectations, which are highly aligned with the recommendations of the Task force on Climate-related Financial Disclosures (TCFD). As with TCFD, OSFI's disclosure expectations are structured around four thematic areas that represent core elements of how companies operate: governance, strategy, risk management, and metrics and targets. These disclosures help OSFI meet its mandate of protecting depositors, creditors, and policyholders and contributing to public confidence in the Canadian financial system.
----
+
 To help achieve high-quality disclosures that enable users, who may be investors, analysts, and the public at large, to understand the impact of climate change on FIs, FIs should follow these six principles:
 
 1. Disclose relevant information.
@@ -82,6 +81,7 @@ Using these approaches, once FIs have established a baseline for their current p
 
 <details>
  <summary>List of D-SIBs</summary>
+ 
 - Bank of Montreal
 - Bank of Nova Scotia
 - Canadian Imperial Bank of Commerce
