@@ -77,8 +77,8 @@ Using these approaches, once FIs have established a baseline for their current p
 <details><summary>Details on Climate-Related Financial Disclosures</summary>
 <p>
 ![disclosure](images/climate_disclosure.png)
-<p>
-<details>
+</p>
+</details>
 
 <details><summary>List of D-SIBs</summary>
 <p>
@@ -88,8 +88,8 @@ Using these approaches, once FIs have established a baseline for their current p
 - National Bank of Canada
 - Royal Bank of Canada
 - Toronto-Dominion Bank
-<p>
-<details>
+</p>
+</details>
 
 <details><summary>List of IAIGs</summary>
 <p>
@@ -97,5 +97,5 @@ Using these approaches, once FIs have established a baseline for their current p
  - Manufacturers Life Insurance Company
  - Canada Life Assurance Company
  - Intact Financial Corporation
-<p>
-<details>
+</p>
+</details>
