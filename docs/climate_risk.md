@@ -21,8 +21,8 @@ Climate risk is a cross-cutting risk; that is, not a risk in its own right but o
 
 The guideline sets out OSFI's expectations for climate risk management. This guideline is to be used in conjunction with other OSFI guidance, including but not limited to the Corporate Governance Guideline, Guideline E-18: Stress Testing, Guideline E-19: Own Risk and Solvency Assessment (ORSA), and Guideline E-19: Internal Capital Adequacy Process (ICAAP), which address the elements of climate risk management. There are two main categories of OSFI's expectations: Climate Risk Management and Climate-Related Financial Disclosures.
 
-### Climate Risk Management
-
+<details><summary>Climate Risk Management</summary>
+<p>
 #### Governance
 FIs are expected to establish the appropriate governance structure, involving the board of directors and senior management, to manage climate risk. Additionally, FIs are expected to understand and incorporate the impact of climate risk on their business model and strategic plans.
 #### Risk Management
@@ -32,8 +32,12 @@ In addition to governance and risk management expectations, FIs are expected to 
 
 #### Capital and Liquidity Adequacy
 Last but not least, FIs should incorporate climate risk into their ICAAP or ORSA process to maintain sufficient capital and liquidity buffers.
+</p>
+</details>
 
-### Climate-Related Financial Disclosures
+<details><summary>Climate-Related Financial Disclosures</summary>
+<p>
+
 OSFI reinforces its climate risk management expectations through climate-related financial disclosure expectations, which are highly aligned with the recommendations of the Task force on Climate-related Financial Disclosures (TCFD). As with TCFD, OSFI's disclosure expectations are structured around four thematic areas that represent core elements of how companies operate: governance, strategy, risk management, and metrics and targets. These disclosures help OSFI meet its mandate of protecting depositors, creditors, and policyholders and contributing to public confidence in the Canadian financial system.
 
 To help achieve high-quality disclosures that enable users, who may be investors, analysts, and the public at large, to understand the impact of climate change on FIs, FIs should follow these six principles:
@@ -46,6 +50,8 @@ To help achieve high-quality disclosures that enable users, who may be investors
 6. Disclose information consistently over time. 
 
 The disclosures should be published, at a minimum, annually. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
+</p>
+</details>
 
 ## Who does this guideline apply to?
 
@@ -53,7 +59,7 @@ The guideline applies to all federally regulated financial institutions, i.e., b
 
 ## When will this guideline become effective?
 
-The expectations outlined in the guideline will become effective in a phased approach. The minimum mandatory climate-related financial disclosures will become effective starting from the fiscal period ending on or after October 1, 2024, for D-SIBs and IAIGs. FIs are expected to publish financial disclosures no later than 180 days after the fiscal year-end.
+The expectations outlined in the guideline will become effective in a phased approach. The minimum mandatory climate-related financial disclosures will become effective from the fiscal period ending on or after October 1, 2024, for D-SIBs and IAIGs. FIs are expected to publish financial disclosures no later than 180 days after the fiscal year-end. For other in-scope FIs, the guideline will become effective from the fiscal year ending on or after October 1, 2025.
 
 ## How can FIs get started with this guideline?
 
