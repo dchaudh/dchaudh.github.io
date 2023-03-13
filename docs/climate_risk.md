@@ -76,7 +76,7 @@ Using these approaches, once FIs have established a baseline for their current p
 ## Appendix
 <details><summary>Details on Climate-Related Financial Disclosures</summary>
 <p>
-![disclosure](images/climate_disclosure.png)
+![disclosure](/dchaudh.github.io/images/climate_disclosure.png)
 </p>
 </details>
 
