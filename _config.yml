@@ -1,6 +1,6 @@
 title: Just the Thoughts
 description: I jot down my thoughts on just about anything
-remote_theme: just-the-docs/just-the-docs
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 url: https://dchaudh.github.io
 color_scheme: "dark"
 search_enabled: true
