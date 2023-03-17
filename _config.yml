@@ -8,6 +8,9 @@ search_enabled: true
 kramdown:
  parse_block_html: true
  
+plugins:
+ - jekyll-include-cache
+ 
 #aux_links: # remove if you don't want this link to appear on your pages
 #  Template Repository: https://github.com/dchaudh/dchaudh.github.io
  
