@@ -1,5 +1,6 @@
 ---
 title: OSFI's B-15 Guideline
+layout: single
 toc: true
 permalink: /climate-risk/osfi-b15
 ---
