@@ -16,6 +16,15 @@ defaults:
       comments: true
       share: true
       related: true
+  - scope:
+    path: _posts
+    type: posts
+  values:
+    layout: single
+    read_time: true
+    comments: true
+    share: true
+    related: true
       
 plugins:
  - jekyll-include-cache
