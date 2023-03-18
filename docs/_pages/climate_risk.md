@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Climate Risk
 nav_order: 2
 toc: true
@@ -75,6 +74,8 @@ Overall, financial institutions need to integrate climate risk management into t
 Using these approaches, once FIs have established a baseline for their current performance in climate risk management, they should set and monitor measurable metrics and targets (e.g., carbon footprint, portfolio alignment with climate goals such as the Paris Agreement or national targets for emissions reduction, etc.) to drive and track progress in managing climate risks.
 
 ## Appendix
+
+![disclosure](/assets/images/climate_disclosure.png)
 
 <details><summary>Details on Climate-Related Financial Disclosures</summary>
 
