@@ -1,9 +1,9 @@
 ---
+title: OSFI's B-15 Guideline Explained
 layout: single
 toc: true
 permalink: /climate-risk/osfi-b15
 ---
-# OSFI's B-15 Guideline Explained
 
 The Office of the Superintendent of Financial Institutions (OSFI) published its climate risk management guideline earlier this
 month. The guideline has been in the making since last June and marks the first guideline to be issued by a major financial
