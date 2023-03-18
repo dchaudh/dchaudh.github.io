@@ -5,8 +5,8 @@ permalink: /carbon-clock/
 feature_row:
   - image_path: assets/images/canada.jpg
     alt: ""
-    title: "Canada's OSFI issues climate risk management guidelines"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    title: "OSFI's B-15 Guideline Explained"
+    excerpt: 'Canada's OSFI has issued B15 - Climate Risk Management guidelines'
     url: "/climate-risk"
     btn_label: "Read More"
     btn_class: "btn--primary"
