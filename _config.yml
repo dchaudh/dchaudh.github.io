@@ -3,6 +3,10 @@ description: I jot down my thoughts on just about anything
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 url: https://dchaudh.github.io
 
+include:
+  - _pages
+  - _posts
+
 defaults:
   # _posts
   - scope:
