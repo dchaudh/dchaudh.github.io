@@ -2,7 +2,7 @@
 layout: default
 title: Climate Risk
 nav_order: 2
-permalink: /climate_risk
+permalink: /climate-risk
 ---
 # OSFI's B-15 Guideline Explained
 
