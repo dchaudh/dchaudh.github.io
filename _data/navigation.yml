@@ -5,6 +5,6 @@ main:
     url: /climate-risk
     children:
     - title: "OSFI B15"
-      url: /climate-risk/osfi-b15
+      url: /osfi-b15
   - title: "Carbon Clock"
     url: /carbon-clock
