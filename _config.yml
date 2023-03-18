@@ -5,6 +5,29 @@ url: https://dchaudh.github.io
 
 include: ["_pages"]
 
+defaults:
+  # _posts
+  - scope:
+      path: _pages
+      type: pages
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+   
 plugins:
  - jekyll-include-cache
  
