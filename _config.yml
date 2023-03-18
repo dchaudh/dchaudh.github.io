@@ -2,7 +2,8 @@ title: Just the Thoughts
 description: I jot down my thoughts on just about anything
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 url: https://dchaudh.github.io
-baseurl: /just-the-thoughts
+
+include: ["_pages"]
 
 plugins:
  - jekyll-include-cache
