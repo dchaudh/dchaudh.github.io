@@ -4,7 +4,6 @@ permalink: /carbon-clock/
 
 feature_row:
   - image_path: assets/images/canada.jpg
-    alt: ""
     title: "OSFI's B-15 Guideline Explained"
     excerpt: 'Canada's OSFI has issued B15 - Climate Risk Management guidelines'
     url: "/climate-risk"
