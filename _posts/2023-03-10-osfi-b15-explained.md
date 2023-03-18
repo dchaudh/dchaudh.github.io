@@ -69,6 +69,7 @@ Overall, financial institutions need to integrate climate risk management into t
 Using these approaches, once FIs have established a baseline for their current performance in climate risk management, they should set and monitor measurable metrics and targets (e.g., carbon footprint, portfolio alignment with climate goals such as the Paris Agreement or national targets for emissions reduction, etc.) to drive and track progress in managing climate risks.
 
 ## Appendix
+
  <details> 
   <summary>Details on Climate-Related Financial Disclosures</summary>
 
@@ -76,8 +77,8 @@ Using these approaches, once FIs have established a baseline for their current p
  
  </details>
 
-
-  ### List of D-SIBs
+ <details> 
+  <summary>List of D-SIBs</summary>
 
   - Bank of Montreal
   - Bank of Nova Scotia
@@ -85,11 +86,15 @@ Using these approaches, once FIs have established a baseline for their current p
   - National Bank of Canada
   - Royal Bank of Canada
   - Toronto-Dominion Bank
+ 
+ </details>
 
-  ### List of IAIGs
+ <details> 
+  <summary>List of IAIGs</summary>
 
    - Sun Life Assurance Company of Canada
    - Manufacturers Life Insurance Company
    - Canada Life Assurance Company
    - Intact Financial Corporation
-
+ 
+ </details>
