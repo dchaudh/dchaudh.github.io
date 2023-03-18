@@ -3,5 +3,8 @@ main:
     url: /about
   - title: "Climate Risk"
     url: /climate-risk
+    children:
+    - title: "OSFI B15"
+      url: /climate-risk/osfi-b15
   - title: "Carbon Clock"
     url: /carbon-clock
