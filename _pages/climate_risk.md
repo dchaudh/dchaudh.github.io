@@ -1,7 +1,4 @@
 ---
-title: Climate Risk
-nav_order: 2
-toc: true
 permalink: /climate-risk
 
 feature_row:
