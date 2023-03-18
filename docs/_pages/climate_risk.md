@@ -2,6 +2,7 @@
 layout: default
 title: Climate Risk
 nav_order: 2
+toc: true
 permalink: /climate-risk
 ---
 # OSFI's B-15 Guideline Explained
@@ -77,7 +78,7 @@ Using these approaches, once FIs have established a baseline for their current p
 
 <details><summary>Details on Climate-Related Financial Disclosures</summary>
 
-![disclosure](/docs/assets/images/climate_disclosure.png)
+![disclosure](/assets/images/climate_disclosure.png)
 
 </details>
 
