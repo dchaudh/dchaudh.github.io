@@ -70,14 +70,14 @@ Using these approaches, once FIs have established a baseline for their current p
 
 ## Appendix
 
- <details> 
+ <details markdown="block"> 
   <summary>Details on Climate-Related Financial Disclosures</summary>
 
   ![disclosure](/assets/images/climate_disclosure.png)
  
  </details>
 
- <details> 
+ <details markdown="block"> 
   <summary>List of D-SIBs</summary>
 
   - Bank of Montreal
@@ -89,7 +89,7 @@ Using these approaches, once FIs have established a baseline for their current p
  
  </details>
 
- <details> 
+ <details markdown="block"> 
   <summary>List of IAIGs</summary>
 
    - Sun Life Assurance Company of Canada
