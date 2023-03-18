@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /climate-risk
 
 feature_row:
