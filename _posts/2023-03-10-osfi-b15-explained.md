@@ -20,21 +20,18 @@ Climate risk is a cross-cutting risk; that is, not a risk in its own right but o
 
 The guideline sets out OSFI's expectations for climate risk management. This guideline is to be used in conjunction with other OSFI guidance, including but not limited to the Corporate Governance Guideline, Guideline E-18: Stress Testing, Guideline E-19: Own Risk and Solvency Assessment (ORSA), and Guideline E-19: Internal Capital Adequacy Process (ICAAP), which address the elements of climate risk management. There are two main categories of OSFI's expectations: Climate Risk Management and Climate-Related Financial Disclosures.
 
-<details><summary>Climate Risk Management</summary>
+### Climate Risk Management
 
-### Governance
+#### Governance
 FIs are expected to establish the appropriate governance structure, involving the board of directors and senior management, to manage climate risk. Additionally, FIs are expected to understand and incorporate the impact of climate risk on their business model and strategic plans.
-### Risk Management
+#### Risk Management
 FIs are expected to identify, assess, and manage climate risk in tandem with their risk appetite framework. As climate risk is a cross-cutting risk, FIs are expected to integrate climate risk into their Enterprise Risk Management (ERM) framework. Furthermore, FIs should implement appropriate tools and models to measure the current and future impact of climate risk over various time horizons. The guideline also recognizes that FIs might have limited data available pertaining to climate risk. In instances where such data gaps exist, FIs should use alternative data sources/proxies. Whenever FIs use external sources for help, be it for models or data, they should adequately understand their behind-the-scenes mechanics. For FIs to assess the effectiveness and progress of their climate risk management, they should set and monitor metrics and targets. FIs should also have reporting systems to support strategic planning and risk management.
-### Climate Scenario Analysis and Stress Testing
+#### Climate Scenario Analysis and Stress Testing
 In addition to governance and risk management expectations, FIs are expected to use climate scenario analysis and stress testing to assess the impact of climate risk on their risk profile, business strategy, and business model. FIs should not take climate scenario analysis lightly as OSFI will require FIs to complete standardized climate scenario exercises and report results back to them on a periodic basis.
-
-### Capital and Liquidity Adequacy
+#### Capital and Liquidity Adequacy
 Last but not least, FIs should incorporate climate risk into their ICAAP or ORSA process to maintain sufficient capital and liquidity buffers.
 
-</details>
-
-<details><summary>Climate-Related Financial Disclosures</summary>
+### Climate-Related Financial Disclosures
 
 OSFI reinforces its climate risk management expectations through climate-related financial disclosure expectations, which are highly aligned with the recommendations of the Task force on Climate-related Financial Disclosures (TCFD). As with TCFD, OSFI's disclosure expectations are structured around four thematic areas that represent core elements of how companies operate: governance, strategy, risk management, and metrics and targets. These disclosures help OSFI meet its mandate of protecting depositors, creditors, and policyholders and contributing to public confidence in the Canadian financial system.
 
@@ -49,7 +46,6 @@ To help achieve high-quality disclosures that enable users, who may be investors
 
 The disclosures should be published, at a minimum, annually. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
  
-</details>
 
 ## Who does this guideline apply to?
 
@@ -74,13 +70,11 @@ Using these approaches, once FIs have established a baseline for their current p
 
 ## Appendix
 
-<details><summary>Details on Climate-Related Financial Disclosures</summary>
+### Details on Climate-Related Financial Disclosures
 
 ![disclosure](/assets/images/climate_disclosure.png)
 
-</details>
-
-<details><summary>List of D-SIBs</summary>
+### List of D-SIBs
  
 - Bank of Montreal
 - Bank of Nova Scotia
@@ -89,13 +83,9 @@ Using these approaches, once FIs have established a baseline for their current p
 - Royal Bank of Canada
 - Toronto-Dominion Bank
  
-</details>
-
-<details><summary>List of IAIGs</summary>
+### List of IAIGs
 
  - Sun Life Assurance Company of Canada
  - Manufacturers Life Insurance Company
  - Canada Life Assurance Company
  - Intact Financial Corporation
-
-</details>
