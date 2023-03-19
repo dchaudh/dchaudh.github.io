@@ -35,17 +35,22 @@ Last but not least, FIs should incorporate climate risk into their ICAAP or ORSA
 
 OSFI reinforces its climate risk management expectations through climate-related financial disclosure expectations, which are highly aligned with the recommendations of the Task force on Climate-related Financial Disclosures (TCFD). As with TCFD, OSFI's disclosure expectations are structured around four thematic areas that represent core elements of how companies operate: governance, strategy, risk management, and metrics and targets. These disclosures help OSFI meet its mandate of protecting depositors, creditors, and policyholders and contributing to public confidence in the Canadian financial system.
 
-To help achieve high-quality disclosures that enable users, who may be investors, analysts, and the public at large, to understand the impact of climate change on FIs, FIs should follow these six principles:
-
-1. Disclose relevant information.
-2. Disclose specific and comprehensive information.
-3. Disclose clear, balanced, and understandable information.
-4. Disclose reliable and verifiable information.
-5. Disclose information appropriate for its size, nature, and complexity.
-6. Disclose information consistently over time. 
-
-The disclosures should be published, at a minimum, annually. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
+<details markdown="block"> 
+  <summary>Principles for Effective Disclosure</summary>
  
+  To help achieve high-quality disclosures that enable users, who may be investors, analysts, and the public at large, to understand the impact of climate change on FIs, FIs should follow these six principles:
+
+  1. Disclose relevant information.
+  2. Disclose specific and comprehensive information.
+  3. Disclose clear, balanced, and understandable information.
+  4. Disclose reliable and verifiable information.
+  5. Disclose information appropriate for its size, nature, and complexity.
+  6. Disclose information consistently over time. 
+
+  The disclosures should be published, at a minimum, annually. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
+ 
+</details>
+
 
 ## Who does this guideline apply to?
 
