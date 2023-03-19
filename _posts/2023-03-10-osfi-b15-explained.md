@@ -5,7 +5,7 @@ toc: true
 permalink: /climate-risk/osfi-b15
 ---
 
-The Office of the Superintendent of Financial Institutions (OSFI) published its climate risk management guideline earlier this
+The [Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/Eng/osfi-bsif/Pages/default.aspx) (OSFI) published its [climate risk management guideline] (https://www.osfi-bsif.gc.ca/Eng/Docs/b15-dft.pdf) earlier this
 month. The guideline has been in the making since last June and marks the first guideline to be issued by a major financial
 institutions' regulator in North America. In this article, we will explain the 5Ws and 1H of this publication.
 
