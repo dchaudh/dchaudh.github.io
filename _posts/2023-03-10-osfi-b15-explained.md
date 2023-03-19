@@ -30,6 +30,7 @@ The guideline sets out OSFI's expectations for climate risk management. This gui
 <details markdown="block"> 
   <summary>Risk Management</summary>
   FIs are expected to identify, assess, and manage climate risk in tandem with their risk appetite framework. As climate risk is a cross-cutting risk, FIs are expected to integrate climate risk into their Enterprise Risk Management (ERM) framework. Furthermore, FIs should implement appropriate tools and models to measure the current and future impact of climate risk over various time horizons. 
+  
   The guideline also recognizes that FIs might have limited data available pertaining to climate risk. In instances where such data gaps exist, FIs should use alternative data sources/proxies. Whenever FIs use external sources for help, be it for models or data, they should adequately understand their behind-the-scenes mechanics. For FIs to assess the effectiveness and progress of their climate risk management, they should set and monitor metrics and targets. FIs should also have reporting systems to support strategic planning and risk management.
 </details>
 
@@ -60,6 +61,7 @@ OSFI reinforces its climate risk management expectations through climate-related
   6. Disclose information consistently over time. 
  
 </details>
+
 
 The disclosures should be published, at a minimum, <ins>annually</ins>. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
 
