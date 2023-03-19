@@ -1,6 +1,4 @@
 main:
-  - title: "About"
-    url: /about
   - title: "Climate Risk"
     url: /climate-risk
     children:
