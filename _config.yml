@@ -30,3 +30,12 @@ defaults:
 plugins:
  - jekyll-include-cache
  
+author:
+  name     : "Deepika Chaudhry"
+  avatar   : "/assets/images/bio_dc.jpeg"
+  bio      : "I am a risk management consultant for financial instiutions."
+  location : "USA"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/dchaudh/"
