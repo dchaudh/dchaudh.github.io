@@ -22,14 +22,25 @@ The guideline sets out OSFI's expectations for climate risk management. This gui
 
 ### Climate Risk Management
 
-#### Governance
-FIs are expected to establish the appropriate governance structure, involving the board of directors and senior management, to manage climate risk. Additionally, FIs are expected to understand and incorporate the impact of climate risk on their business model and strategic plans.
-#### Risk Management
-FIs are expected to identify, assess, and manage climate risk in tandem with their risk appetite framework. As climate risk is a cross-cutting risk, FIs are expected to integrate climate risk into their Enterprise Risk Management (ERM) framework. Furthermore, FIs should implement appropriate tools and models to measure the current and future impact of climate risk over various time horizons. The guideline also recognizes that FIs might have limited data available pertaining to climate risk. In instances where such data gaps exist, FIs should use alternative data sources/proxies. Whenever FIs use external sources for help, be it for models or data, they should adequately understand their behind-the-scenes mechanics. For FIs to assess the effectiveness and progress of their climate risk management, they should set and monitor metrics and targets. FIs should also have reporting systems to support strategic planning and risk management.
-#### Climate Scenario Analysis and Stress Testing
-In addition to governance and risk management expectations, FIs are expected to use climate scenario analysis and stress testing to assess the impact of climate risk on their risk profile, business strategy, and business model. FIs should not take climate scenario analysis lightly as OSFI will require FIs to complete standardized climate scenario exercises and report results back to them on a periodic basis.
-#### Capital and Liquidity Adequacy
-Last but not least, FIs should incorporate climate risk into their ICAAP or ORSA process to maintain sufficient capital and liquidity buffers.
+<details markdown="block"> 
+  <summary>Governance</summary>
+  FIs are expected to establish the appropriate governance structure, involving the board of directors and senior management, to manage climate risk. Additionally, FIs are expected to understand and incorporate the impact of climate risk on their business model and strategic plans.
+</details>
+
+<details markdown="block"> 
+  <summary>Risk Management</summary>
+  FIs are expected to identify, assess, and manage climate risk in tandem with their risk appetite framework. As climate risk is a cross-cutting risk, FIs are expected to integrate climate risk into their Enterprise Risk Management (ERM) framework. Furthermore, FIs should implement appropriate tools and models to measure the current and future impact of climate risk over various time horizons. The guideline also recognizes that FIs might have limited data available pertaining to climate risk. In instances where such data gaps exist, FIs should use alternative data sources/proxies. Whenever FIs use external sources for help, be it for models or data, they should adequately understand their behind-the-scenes mechanics. For FIs to assess the effectiveness and progress of their climate risk management, they should set and monitor metrics and targets. FIs should also have reporting systems to support strategic planning and risk management.
+</details>
+
+<details markdown="block"> 
+  <summary>Climate Scenario Analysis and Stress Testing</summary>
+  In addition to governance and risk management expectations, FIs are expected to use climate scenario analysis and stress testing to assess the impact of climate risk on their risk profile, business strategy, and business model. FIs should not take climate scenario analysis lightly as OSFI will require FIs to complete standardized climate scenario exercises and report results back to them on a periodic basis.
+</details>
+
+<details markdown="block"> 
+  <summary>Capital and Liquidity Adequacy</summary>
+  Last but not least, FIs should incorporate climate risk into their ICAAP or ORSA process to maintain sufficient capital and liquidity buffers.
+</details>
 
 ### Climate-Related Financial Disclosures
 
@@ -46,10 +57,10 @@ OSFI reinforces its climate risk management expectations through climate-related
   4. Disclose reliable and verifiable information.
   5. Disclose information appropriate for its size, nature, and complexity.
   6. Disclose information consistently over time. 
-
-  The disclosures should be published, at a minimum, annually. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
  
 </details>
+
+The disclosures should be published, at a minimum, annually. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
 
 
 ## Who does this guideline apply to?
