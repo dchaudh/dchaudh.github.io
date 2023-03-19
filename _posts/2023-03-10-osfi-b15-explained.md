@@ -18,7 +18,7 @@ Climate risk is a <ins>cross-cutting risk</ins>; that is, not a risk in its own 
 
 ## What does the guideline say?
 
-The guideline sets out OSFI's expectations for climate risk management. This guideline is to be used in conjunction with other OSFI guidance, including but not limited to the Corporate Governance Guideline, Guideline E-18: Stress Testing, Guideline E-19: Own Risk and Solvency Assessment (ORSA), and Guideline E-19: Internal Capital Adequacy Process (ICAAP), which address the elements of climate risk management. There are two main categories of OSFI's expectations: Climate Risk Management and Climate-Related Financial Disclosures.
+The guideline sets out OSFI's expectations for climate risk management. This guideline is to be used in conjunction with other OSFI guidance, including but not limited to the [Corporate Governance Guideline](https://www.osfi-bsif.gc.ca/Eng/Docs/CG_Guideline.pdf), [Guideline E-18: Stress Testing](https://www.osfi-bsif.gc.ca/Eng/Docs/e18.pdf), [Guideline E-19: Own Risk and Solvency Assessment](https://www.osfi-bsif.gc.ca/Eng/Docs/e1918.pdf) (ORSA), and [Guideline E-19: Internal Capital Adequacy Process](https://www.osfi-bsif.gc.ca/Eng/Docs/icaap_dti_gias.pdf) (ICAAP), which address the elements of climate risk management. There are two main categories of OSFI's expectations: Climate Risk Management and Climate-Related Financial Disclosures.
 
 ### Climate Risk Management
 
@@ -29,7 +29,8 @@ The guideline sets out OSFI's expectations for climate risk management. This gui
 
 <details markdown="block"> 
   <summary>Risk Management</summary>
-  FIs are expected to identify, assess, and manage climate risk in tandem with their risk appetite framework. As climate risk is a cross-cutting risk, FIs are expected to integrate climate risk into their Enterprise Risk Management (ERM) framework. Furthermore, FIs should implement appropriate tools and models to measure the current and future impact of climate risk over various time horizons. The guideline also recognizes that FIs might have limited data available pertaining to climate risk. In instances where such data gaps exist, FIs should use alternative data sources/proxies. Whenever FIs use external sources for help, be it for models or data, they should adequately understand their behind-the-scenes mechanics. For FIs to assess the effectiveness and progress of their climate risk management, they should set and monitor metrics and targets. FIs should also have reporting systems to support strategic planning and risk management.
+  FIs are expected to identify, assess, and manage climate risk in tandem with their risk appetite framework. As climate risk is a cross-cutting risk, FIs are expected to integrate climate risk into their Enterprise Risk Management (ERM) framework. Furthermore, FIs should implement appropriate tools and models to measure the current and future impact of climate risk over various time horizons. 
+  The guideline also recognizes that FIs might have limited data available pertaining to climate risk. In instances where such data gaps exist, FIs should use alternative data sources/proxies. Whenever FIs use external sources for help, be it for models or data, they should adequately understand their behind-the-scenes mechanics. For FIs to assess the effectiveness and progress of their climate risk management, they should set and monitor metrics and targets. FIs should also have reporting systems to support strategic planning and risk management.
 </details>
 
 <details markdown="block"> 
@@ -44,7 +45,7 @@ The guideline sets out OSFI's expectations for climate risk management. This gui
 
 ### Climate-Related Financial Disclosures
 
-OSFI reinforces its climate risk management expectations through climate-related financial disclosure expectations, which are highly aligned with the recommendations of the Task force on Climate-related Financial Disclosures (TCFD). As with TCFD, OSFI's disclosure expectations are structured around four thematic areas that represent core elements of how companies operate: governance, strategy, risk management, and metrics and targets. These disclosures help OSFI meet its mandate of protecting depositors, creditors, and policyholders and contributing to public confidence in the Canadian financial system.
+OSFI reinforces its climate risk management expectations through climate-related financial disclosure expectations, which are highly aligned with the recommendations of the [Task force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/about/) (TCFD). As with TCFD, OSFI's disclosure expectations are structured around four thematic areas that represent core elements of how companies operate: governance, strategy, risk management, and metrics and targets. These disclosures help OSFI meet its mandate of protecting depositors, creditors, and policyholders and contributing to public confidence in the Canadian financial system.
 
 <details markdown="block"> 
   <summary>Principles for Effective Disclosure</summary>
@@ -60,12 +61,12 @@ OSFI reinforces its climate risk management expectations through climate-related
  
 </details>
 
-The disclosures should be published, at a minimum, annually. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
+The disclosures should be published, at a minimum, <ins>annually</ins>. FIs may exercise discretion regarding the location for these disclosures. Possible locations include, but are not limited to, a report to shareholders or a stand-alone report (e.g., Climate Risk Report, Environmental, Social, and Governance (ESG) Report) as long as these are made available to the public. Additionally, FIs have the flexibility to present this information in a way that best suits them.
 
 
 ## Who does this guideline apply to?
 
-The guideline applies to all federally regulated financial institutions, i.e., banks, trust and loan companies, life insurance companies, property and casualty (P&C) companies, except foreign bank branches.
+The guideline applies to all [federally regulated financial institutions](https://www.osfi-bsif.gc.ca/Eng/wt-ow/Pages/wwr-er.aspx), i.e., banks, trust and loan companies, life insurance companies, property and casualty (P&C) companies, except foreign bank branches.
 
 ## When will this guideline become effective?
 
