@@ -34,7 +34,7 @@ plugins:
 author:
   name     : "Deepika Chaudhry"
   avatar   : "/assets/images/bio_dc.jpeg"
-  bio      : "I am a risk management consultant for financial instiutions."
+  bio      : "Helping financial institutions manage risk better"
   location : "USA"
   links:
     - label: "LinkedIn"
