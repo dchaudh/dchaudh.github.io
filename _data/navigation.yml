@@ -4,5 +4,3 @@ main:
     children:
     - title: "OSFI B15"
       url: /osfi-b15
-  - title: "Carbon Clock"
-    url: /carbon-clock
