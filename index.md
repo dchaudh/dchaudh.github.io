@@ -2,4 +2,5 @@
 layout: splash
 permalink: /
 ---
-https://en.m.wikiquote.org/wiki/Wikiquote:Quote_of_the_day/March_19,_2023
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://carbonclock.hugotiger.com" height="700px" width="100%"></iframe>
