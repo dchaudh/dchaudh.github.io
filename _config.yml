@@ -2,6 +2,7 @@ title: Just the Thoughts
 description: I jot down my thoughts on just about anything
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 url: https://dchaudh.github.io
+minimal_mistakes_skin: "dark"
 
 include:
   - _pages
